@@ -16,7 +16,7 @@
     Responsive Web Design: @media queries
     JavaScript, jQuery, AJAX, AngularJS
  
- ## Client Side
+ ## Others
     API - Youtube, Google maps, Facebook, twitter
     Algorithm Scripting
     Version Control: Git, Github, Markdown
